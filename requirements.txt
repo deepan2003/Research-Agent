@@ -1,4 +1,7 @@
-langgraph==0.2.16
-langchain-groq==0.1.9
-langchain-core==0.2.37
+langgraph>=0.2.16
+langchain-groq>=0.2.0
+langchain-core>=1.6.1
 python-dotenv==1.0.1
+deepagents==0.7.13
+langchain-community>=0.4.2
+duckduckgo-search==8.1.1
